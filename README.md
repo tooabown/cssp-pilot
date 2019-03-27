@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://skyeyepacific.com/digicel/
+- Leaflet Map https://tooabown.github.io/leaflet-maps-with-google-sheets/
 - Google Sheets template https://docs.google.com/spreadsheets/d/14t9m2swh6y323qzfpHY0QmuUS62BaCT1h90ge_8RMVY/edit#gid=0
 
 ## Create your own
